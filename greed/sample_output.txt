@@ -1,0 +1,43 @@
+Enter number of players: 2
+Turn 1:
+--------
+Player 1 rolls: 5, 5, 1, 1, 2
+Score in this round: xxx
+Total score: yyy
+Do you want to roll the non-scoring 1 dice? (y/n): n
+
+Player 2 rolls: 2, 3, 1, 1, 3
+Score in this round: xxx
+Total score: yyy
+Do you want to roll the non-scoring 3 dices?(y/n): y
+Player 2 rolls: 2, 3, 2
+Score in this round: 0
+Total score: yyy
+
+Turn 2
+----------
+Player 1 rolls: 3, 2, 2, 1, 1
+Score in this round: xxx
+Total score: yyy
+Do you want to roll the non-scoring 3 dices?(y/n): y
+Player 1 rolls: 4, 2, 3
+Score in this round: xxx
+Total score: yyy
+
+Player 2 rolls: 1, 1, 2, 2, 1
+Score in this round: xxx
+Total score: yyy
+Do you want to roll the non-scoring 2 dices? (y/n): n
+
+Turn 3
+----------
+Player 1 rolls: 1, 2, 5, 5, 5
+Score in this round: xxx
+Total score: yyy
+Do you want to roll the non-scoring 1 dice? (y/n): n
+.
+.
+.
+.
+Final round
+--------------

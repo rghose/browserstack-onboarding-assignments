@@ -2,6 +2,8 @@
 #
 # Game of GREED
 # By Rahul Ghose
+# 2017-01-25
+
 
 TOTAL_DICE = 5
 
