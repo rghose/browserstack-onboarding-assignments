@@ -65,6 +65,21 @@ class Myapp < Sinatra::Application
 			end
 		end
 	end
+
+	get '/refresh' do
+		id = params[:id]
+		if id.nil?
+			status 403
+			"No Key"
+		else
+			if @data.update_time(id)
+				"Updated"
+			else
+				status 404
+				"Key not found"
+			end
+		end
+	end
 end
 
 Myapp.run!
